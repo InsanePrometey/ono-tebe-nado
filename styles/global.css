@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 body {
   min-width: 1100px;
   margin: 0;
